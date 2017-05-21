@@ -1,0 +1,4 @@
+left camera : cam1_2
+right camera: cam2_2
+Measured distance of person is 90 cm
+-------------------
