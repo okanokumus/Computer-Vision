@@ -7,5 +7,6 @@ Hardware environment:
 * Two cameras
 * Monitor
 * HDMI to VGA converter (connection of monitor and pi)
-* Mause
+* Mouse
 * Keyboard
+For more information about Raspberry Pi 3, you can visit https://www.raspberrypi.org/
