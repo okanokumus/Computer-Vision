@@ -12,5 +12,6 @@ System hardware and requirements:
 For more information about Raspberry Pi 3, you can visit https://www.raspberrypi.org/
 
 To compile the codes, open current folder in the terminal(press F4 or you can access from 'tools') and write:
-'g++ `pkg-config --cflags opencv` face.cpp `pkg-config --libs opencv` -o face'.(face is just an example you can write anything
+* g++ $(pkg-config --libs --cflags opencv) -o face face.cpp
+(face is just an example you can write anything
 that you want to compile) then system produces the exacutable file 'face'.
