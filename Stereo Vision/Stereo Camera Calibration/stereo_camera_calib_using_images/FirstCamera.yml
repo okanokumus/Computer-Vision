@@ -1,0 +1,23 @@
+%YAML:1.0
+Left camera parameters : fisrt camera
+Left camera calibration error: 2.6684875780713557e-01
+Output field of view in degrees along the horizontal  sensor axis: 3.9007684578060370e+01
+Output field of view in degrees along the vertical  sensor axis: 2.9819657185403116e+01
+Physical width in mm of the sensor: 0.
+Physical height in mm of the sensor: 0.
+Focal length: 9.0345957290215404e+02
+Principal point: [ 2.5796353476984234e+02, 2.0775228773816971e+02 ]
+Aspect ratio fy divide by fx: 9.9768053506678767e-01
+CM1: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.0345957290215404e+02, 0., 2.5796353476984234e+02, 0.,
+       9.0136403010423248e+02, 2.0727041359196639e+02, 0., 0., 1. ]
+D1: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -1.2822115753845595e-01, -4.6114405543557008e-01,
+       -7.7770842088297184e-03, 8.8160267719383692e-04,
+       3.7625776464262279e+00 ]

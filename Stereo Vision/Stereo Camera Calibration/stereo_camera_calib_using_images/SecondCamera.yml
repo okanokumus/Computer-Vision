@@ -1,0 +1,23 @@
+%YAML:1.0
+Right camera parameters: second camera
+Right camera calibration error : 2.7524791858902409e-01
+Output field of view in degrees along the horizontal  sensor axis: 3.9007684578060370e+01
+Output field of view in degrees along the vertical  sensor axis: 2.9819657185403116e+01
+Physical width in mm of the sensor: 0.
+Physical height in mm of the sensor: 0.
+Focal length: 9.0345957290215404e+02
+Principal point: [ 2.5796353476984234e+02, 2.0775228773816971e+02 ]
+Aspect ratio fy divide by fx: 9.9768053506678767e-01
+CM2: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 8.7766405473685074e+02, 0., 3.0654551652618579e+02, 0.,
+       8.7318901474044867e+02, 2.7176716658611832e+02, 0., 0., 1. ]
+D2: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -1.1286584858459259e-01, -4.7269041117246863e-01,
+       -1.7410717206419079e-02, 1.3109822155621151e-03,
+       3.3985278710353439e+00 ]
